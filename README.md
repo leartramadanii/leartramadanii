@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leartramadanii
-- 👀 I’m interested in jobs like front-end , react.js developer!  
-- 🌱 I’m currently learning more deep about react.js!
+- 👀 I’m interested in internships about front-end!
+
 
 <!---
 leartramadanii/leartramadanii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
